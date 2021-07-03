@@ -1,5 +1,16 @@
 body{
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: deeppink;
+    font-family: serif;
+    color:dimgrey;
+    font-size: 12px;
+}
+
+.container{
+    width: 60%;
+    padding: 1rem;
+    border: 1px solid dimgray;
+    margin: 0 auto;
+}
+.container h1{
+    font-size: 40px;
 }
