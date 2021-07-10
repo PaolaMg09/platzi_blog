@@ -23,3 +23,10 @@ body{
     font-size: 40px;
     color: thistle;
 }
+.footer{
+	padding: 0.3rem;
+	background-color: dimgray;
+	font-size: 20px;
+	color:white;
+	text-align: center;
+}
